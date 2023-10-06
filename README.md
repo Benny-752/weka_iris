@@ -41,4 +41,3 @@ Below is a screenshot of the results obtained using the Weka software for the Ir
 ## Conclusion
 The Iris 5 classification project aimed to expand the classic Iris dataset by adding a fifth feature and classifying instances into five distinct classes. The project involved data preparation, preprocessing, feature selection, model selection, training, evaluation, and testing. The screenshot provided showcases the results of the classification using the Weka software.
 
-For more details on the project, including the dataset used and specific model performance metrics, please refer to the project documentation and code.
