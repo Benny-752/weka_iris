@@ -1,5 +1,5 @@
-# weka_iris
-# Iris 5 Classification 
+
+# Iris Classification 
 
 This README provides information about the Iris 5 classification project, including the dataset used, the classification process, and a screenshot of the results obtained using the Weka software.
 
@@ -27,6 +27,16 @@ The classification process for Iris 5 involved the following steps:
 Below is a screenshot of the results obtained using the Weka software for the Iris 5 classification project:
 
 ![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232129.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232142.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232148.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232155.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232202.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232231.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232245.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232251.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232259.png)
+![Iris 5 Classification Screenshot](https://github.com/Benny-752/weka_iris/blob/main/Screenshot%202023-10-06%20232308.png)
+
 
 ## Conclusion
 The Iris 5 classification project aimed to expand the classic Iris dataset by adding a fifth feature and classifying instances into five distinct classes. The project involved data preparation, preprocessing, feature selection, model selection, training, evaluation, and testing. The screenshot provided showcases the results of the classification using the Weka software.
